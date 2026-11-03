@@ -24,6 +24,9 @@ It identifies weaknesses in prompts, assigns a quality score, and generates opti
 | API Testing | Swagger UI |
 | Version Control | Git, GitHub |
 
+![Uploading prompt doctor dashboard.png…]()
+
+
 ## 📁 Project Structure
 
 ```text
