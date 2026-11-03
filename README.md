@@ -40,6 +40,9 @@ prompt-doctor/
 ├── .gitignore
 └── README.md
 ```
+## 🖥️ Application Preview
+
+![Prompt Doctor Dashboard](screenshots/dashboard.png)
 
 ## ⚙️ Installation and Setup
 
