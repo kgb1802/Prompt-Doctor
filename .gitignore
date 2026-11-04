@@ -23,3 +23,6 @@ frontend/dist/
 
 # IDE
 .vscode/
+
+# Local database
+backend/prompt_doctor.db

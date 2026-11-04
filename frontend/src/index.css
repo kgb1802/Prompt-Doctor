@@ -1,4 +1,3 @@
-
 * {
   box-sizing: border-box;
 }
@@ -14,6 +13,8 @@ body {
   background: #090d16;
 }
 
-button, textarea, select {
+button,
+textarea,
+select {
   font-family: inherit;
 }
